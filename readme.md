@@ -1,4 +1,4 @@
-# OpenCV art 2 - Advanced Techniques
+# OpenCV Arts - Advanced Techniques
 
 ## Business Objective
 
